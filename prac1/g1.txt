@@ -1,0 +1,13 @@
+#C:\Users\anish\anaconda3\Lib\site-packages\ipykernel_launcher.py -f C:\Users\anish\AppData\Roaming\jupyter\runtime\kernel-95276745-c51d-4f2c-9eda-8d0553bf67a8.json
+# GMT Mon Aug 11 16:14:19 2025
+# 
+0 1 5
+1 3
+2 4 7 6 9
+3
+4 6
+5 6
+6
+7 8
+8
+9
