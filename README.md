@@ -1,7 +1,7 @@
-# DSC101 – Design and Analysis of Algorithms
+# DSC101 – Beyond Polynomial Time Algorithms
 
 This repository contains the practical assignments and course project for  
-**DSC101 – Design and Analysis of Algorithms**, focusing on exact,
+**DSC101 – Beyond Polynomial Time Algorithms**, focusing on exact,
 approximation, and heuristic algorithms implemented and analyzed using
 Jupyter Notebooks.
 
